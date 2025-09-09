@@ -3,18 +3,19 @@
 MERN Stack Developer; Aspiring Entrepreneur; Lifelong Learner
 
 
-<!-- Text left + GIF right -->
 <table>
   <tr>
-    <td><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=93C5FD&center=true&vCenter=true&lines=MERN+Stack+Developer;Aspiring+Entrepreneur;Lifelong+Learner" />
-</p>
+    <td>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=93C5FD&center=true&vCenter=true&lines=Clean+Code+|+Smooth+UX+|+Smart+Logic;Always+Building+Something+Cool+🔥;React+|+Node+|+MongoDB;Full-Stack+Developer+|+Problem+Solver+|+Lifelong+Learner" />
+      </p>
     </td>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
     </td>
   </tr>
 </table>
+
 
 I’m passionate about **building modern web apps** using **React, Next.js, Node.js, and MongoDB**.  
 Currently, I’m sharpening my skills in full-stack development while dreaming big as an **Entrepreneur, Businessman, and Programmer (EPB)**.  
