@@ -1,6 +1,16 @@
-# 👋 Hey, I'm AlAmin  
 
-💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner  
+# 👋 Hey, I'm AlAmin
+
+<table>
+  <tr>
+    <td>
+      <h2>💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner</h2>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+    </td>
+  </tr>
+</table>
 
 I’m passionate about **building modern web apps** using **React, Next.js, Node.js, and MongoDB**.  
 Currently, I’m sharpening my skills in full-stack development while dreaming big as an **Entrepreneur, Businessman, and Programmer (EPB)**.  
