@@ -1,6 +1,6 @@
 # 👋 Hey, I'm AlAmin
 
-MERN Stack Developer | 🛠 Code. Build. Deploy. Repeat.
+MERN Stack Developer; Aspiring Entrepreneur; Lifelong Learner
 
 
 <table>
