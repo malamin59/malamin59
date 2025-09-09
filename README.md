@@ -1,4 +1,4 @@
-# 👋 Hey, I'm AlAmin Patwary 
+# 👋 Hey, I'm Al Amin Patwary 
 
 MERN Stack Developer; Aspiring Entrepreneur; Lifelong Learner
 
