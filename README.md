@@ -1,11 +1,10 @@
-                                                        # 👋 Hey, I'm AlAmin  
- 
-                               💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner 
-  
+                                                    # 👋 Hey, I'm AlAmin  
+
+                               💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner  
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=2563EB&center=true&vCenter=true&lines=MERN+Stack+Developer;Aspiring+Entrepreneur;Lifelong+Learner" alt="Typing SVG" />
 </p>
-
 
 I’m passionate about **building modern web apps** using **React, Next.js, Node.js, and MongoDB**.  
 Currently, I’m sharpening my skills in full-stack development while dreaming big as an **Entrepreneur, Businessman, and Programmer (EPB)**.  
@@ -52,9 +51,13 @@ Currently, I’m sharpening my skills in full-stack development while dreaming b
 ---
 
 ## 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alamin-epb/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://alamin-15553.web.app/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alaminhossen176466@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801882412260)  
 
 ---
+
 ⭐️ From [AlAmin](https://github.com/malamin59)  
+
