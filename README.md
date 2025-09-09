@@ -1,15 +1,15 @@
 # 👋 Hey, I'm AlAmin
 
 <!-- Typing animation -->
-MERN Stack Developer | 🛠 Code. Build. Deploy. Repeat.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=93C5FD&center=true&vCenter=true&lines=MERN+Stack+Developer;Aspiring+Entrepreneur;Lifelong+Learner" />
+</p>
 
 <!-- Text left + GIF right -->
 <table>
   <tr>
     <td>
-     <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=2563EB&center=true&vCenter=true&lines=MERN+Stack+Developer;Aspiring+Entrepreneur;Lifelong+Learner" />
-</p>
+      <h2>💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner</h2>
     </td>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
