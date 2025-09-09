@@ -6,8 +6,8 @@ MERN Stack Developer | 🛠 Code. Build. Deploy. Repeat.
 <table>
   <tr>
     <td>
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=93C5FD&center=true&vCenter=true&lines=Clean+Code+|+Smooth+UX+|+Smart+Logic;Always+Building+Something+Cool+🔥;React+|+Node+|+MongoDB;Full-Stack+Developer+|+Problem+Solver+|+Lifelong+Learner" />
+     <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=93C5FD&center=true&vCenter=true&lines=I'm+a+Lifelong+Learner|;I'm+a+creative+coder;I'm+a+problem+solver" />
       </p>
     </td>
     <td>
