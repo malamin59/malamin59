@@ -1,4 +1,3 @@
-
 # 👋 Hey, I'm AlAmin
 
 <table>
@@ -7,7 +6,7 @@
       <h2>💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner</h2>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
     </td>
   </tr>
 </table>
