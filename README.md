@@ -2,8 +2,6 @@
 
 💻 MERN Stack Developer | 🚀 Aspiring Entrepreneur | 🌱 Lifelong Learner  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=2563EB&center=true&vCenter=true&lines=MERN+Stack+Developer;Aspiring+Entrepreneur;Lifelong+Learner)
-
 I’m passionate about **building modern web apps** using **React, Next.js, Node.js, and MongoDB**.  
 Currently, I’m sharpening my skills in full-stack development while dreaming big as an **Entrepreneur, Businessman, and Programmer (EPB)**.  
 
