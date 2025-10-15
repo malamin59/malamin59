@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Al Amin Patwary 
+# 👋 Hey, I'm Al Amin Patwary (EPB)
 
 MERN Stack Developer; Aspiring Entrepreneur; Lifelong Learner
 
