@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Al Amin Patwary (EPB)
 
-MERN Stack Developer; Aspiring Entrepreneur; Lifelong Learner
+MERN Stack Developer; Aspiring Full Stack Developer; Lifelong Learner
 
 
 <table>
