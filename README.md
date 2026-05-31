@@ -37,7 +37,6 @@ Currently, I'm looking for:
 - 🎨 **UI/UX Design:** Clean & Responsive Interfaces  
 - 📦 **Deployment:** Vercel, Netlify, Render
 
----
 
 ---
 
