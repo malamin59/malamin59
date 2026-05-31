@@ -6,7 +6,7 @@
   <tr>
     <td>
      <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=1E3A8A&center=true&vCenter=true&lines=I'm+a+Lifelong+Learner;I'm+a+creative+coder;I'm+a+problem+solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=1E3A8A&center=true&vCenter=true&lines=I'm+a+Lifelong+Learner;I'm+a+Full-Stack Developer;I'm+a+creative+coder;I'm+a+problem+solver" />
 </p>
     </td>
     <td>
