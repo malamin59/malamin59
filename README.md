@@ -1,6 +1,5 @@
-# 👋 Hey, I'm Al Amin Patwary (EPB)
-
-JONIOR Full Stack Developer (MERN)
+👋 Hi, I'm Al Amin Patwary
+Frontend Developer | Junior Full-Stack Developer
 
 
 <table>
