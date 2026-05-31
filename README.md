@@ -14,18 +14,16 @@
 </table>
 
 
-🚀 About Me
+## 🙋 About Me
 
-I'm a passionate Frontend Developer and Junior Full-Stack Developer from Bangladesh.
+I'm a passionate **Frontend Developer** and **Junior Full-Stack Developer** from Bangladesh, building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, and modern web technologies.
 
-I enjoy building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, and modern web technologies. 
+**Currently looking for:**
+- 💼 Internship Opportunities
+- 💻 Junior Frontend Developer Roles
+- 🚀 Junior Full-Stack Developer Roles
 
 ---
-Currently, I'm looking for:
-
-💼 Internship Opportunities
-💻 Junior Frontend Developer Roles
-🚀 Junior Full-Stack Developer Roles
 
 ## 🚀 What I Do  
 - ⚡ **Frontend Development:** React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, Shadcn UI, React Router  
