@@ -88,6 +88,7 @@ Currently, I'm looking for:
 **Tech Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · Express.js · MongoDB
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/malamin59/Web-Dev-B6A4-Client)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://skillbridge-celint.vercel.app)
 
 ---
@@ -98,6 +99,7 @@ Currently, I'm looking for:
 **Tech Stack:** React.js · Node.js · MongoDB · JWT
 
 [![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/malamin59/campusbite-web-app-client)
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://campusbite-3dd62.web.app)
 
 ---
