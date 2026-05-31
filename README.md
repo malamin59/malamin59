@@ -74,17 +74,39 @@ Currently, I'm looking for:
 <a href="https://www.linkedin.com/in/alamin-epb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://alamin-15553.web.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:alaminhossen176466@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/8801882412260"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/8801622018102"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
-- 🔹 [**Hostel Management System**](https://github.com/malamin59/hostel-management) – Manage meals, payments & users.  
-- 🔹 [**Portfolio Website**](https://github.com/malamin59/portfolio) – My personal responsive portfolio.  
-- 🔹 [**Upcoming Meals App**](https://github.com/malamin59/upcoming-meals) – Like, publish, and serve meals.  
+### 🚀 SkillBridge
+> A modern online learning platform connecting students and tutors.
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS · Node.js · Express.js · MongoDB
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/malamin59/Web-Dev-B6A4-Client)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://skillbridge-celint.vercel.app)
+
+---
+
+### 🏠 Hostel Management System
+> Manage meals, payments, requests, and hostel operations efficiently.
+
+**Tech Stack:** React.js · Node.js · MongoDB · JWT
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/malamin59/campusbite-web-app-client)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://campusbite-3dd62.web.app)
+
+---
+
+### 🌐 Portfolio Website
+> My personal clean and responsive developer portfolio.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Code-black?logo=github)](https://github.com/malamin59/my-portfolio-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?logo=vercel)](https://alamin-15553.web.app)
 
 ---
 
