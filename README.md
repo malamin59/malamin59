@@ -130,7 +130,7 @@ I'm a passionate **Frontend Developer** and **Junior Full-Stack Developer** from
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=malamin59&theme=gruvbox-duo&mode=weekly)](https://git.io/streak-stats)
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=malamin59&theme=transparent&mode=weekly)](https://git.io/streak-stats)
 
+ 
 ⭐️ From [AlAmin](https://github.com/malamin59)  
