@@ -132,8 +132,7 @@ I'm a passionate **Frontend Developer** and **Junior Full-Stack Developer** from
 
 ![AlAmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=malamin59&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malamin59&layout=compact&theme=radical)  
-![![GitHub Streak](https://streak-stats.demolab.com/?user=malamin59&theme=radical)] 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=malamin59&theme=gruvbox-duo&mode=weekly)](https://git.io/streak-stats)
 ---
 
 ⭐️ From [AlAmin](https://github.com/malamin59)  
