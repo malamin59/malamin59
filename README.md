@@ -1,5 +1,5 @@
 👋 Hi, I'm Al Amin Patwary
-Frontend Developer | Junior Full-Stack Developer
+**Frontend Developer** | **Junior Full-Stack Developer**
 
 
 <table>
@@ -16,17 +16,28 @@ Frontend Developer | Junior Full-Stack Developer
 </table>
 
 
-I’m passionate about **building modern web apps** using **React, Next.js, Node.js, and MongoDB**.  
-Currently, I’m sharpening my skills in full-stack development while dreaming big as an **Entrepreneur, Businessman, and Programmer (EPB)**.  
+🚀 About Me
+
+I'm a passionate Frontend Developer and Junior Full-Stack Developer from Bangladesh.
+
+I enjoy building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, and modern web technologies. 
 
 ---
+Currently, I'm looking for:
+
+💼 Internship Opportunities
+💻 Junior Frontend Developer Roles
+🚀 Junior Full-Stack Developer Roles
 
 ## 🚀 What I Do  
-- ⚡ **Frontend Development:** React, Next.js, TailwindCSS, Shadcn UI  
-- 🔗 **Backend Development:** Node.js, Express, MongoDB, Mongoose  
-- 🔐 **Authentication & Security:** NextAuth, JWT  
+- ⚡ **Frontend Development:** React, Next.js, TypeScript, JavaScript (ES6+), TailwindCSS, Shadcn UI, React Router  
+- 🔗 **Backend Development:** Node.js, Express.js, REST API, Modular Pattern, Mongoose  
+- 🔐 **Authentication & Security:** JWT, NextAuth, Firebase Auth  
+- 🗄️ **Database:** MongoDB, PostgreSQL, Prisma ORM, Neon Database  
+- 🔄 **Data Fetching & State Management:** Axios, TanStack Query  
+- 🛠️ **Tools:** Git, GitHub, VS Code, Figma, Canva  
 - 🎨 **UI/UX Design:** Clean & Responsive Interfaces  
-- 📦 **Deployment:** Vercel, Netlify, Render  
+- 📦 **Deployment:** Vercel, Netlify, Render
 
 ---
 
