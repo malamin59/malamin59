@@ -4,13 +4,11 @@
 
 <table>
   <tr>
-    <td>
-     <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=1E3A8A&center=true&vCenter=true&lines=I'm+a+Lifelong+Learner;I'm+a+Full-Stack Developer;I'm+a+creative+coder;I'm+a+problem+solver" />
-</p>
+    <td valign="middle">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1E3A8A&center=false&vCenter=true&width=435&lines=Hi+there!+I'm+Md.+Al+Amin+👋;Full-Stack+Web+Developer;Lifelong+Learner+%26+Problem+Solver;Building+clean+%26+modern+UIs;Turning+ideas+into+reality+🚀" />
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+    <td valign="middle" align="right">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius: 12px;"/>
     </td>
   </tr>
 </table>
