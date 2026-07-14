@@ -16,7 +16,7 @@
 
 ## 🙋 About Me
 
-I'm a passionate **Frontend Developer** and **Junior Full-Stack Developer** from Bangladesh, building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, and modern web technologies.
+I'm a passionate Full-Stack Developer from Bangladesh, building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and modern web technologies.
 
 **Currently looking for:**
 - 💼 Internship Opportunities
