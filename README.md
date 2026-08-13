@@ -130,11 +130,44 @@ I'm a passionate Full-Stack Developer from Bangladesh, building modern, scalable
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malamin59&show_icons=true)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=malamin59&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF8C00&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" 
+    alt="GitHub Streak Stats"
+  />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=malamin59)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=malamin59&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" 
+    height="180"
+    alt="GitHub Stats"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malamin59&layout=compact)
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=malamin59&layout=compact&theme=github_dark&hide_border=true&langs_count=8" 
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=malamin59&theme=github-compact&hide_border=true&area=true" 
+    alt="GitHub Contribution Graph"
+  />
+</p>
+
+### 👀 Profile Views
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=malamin59&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+    alt="Profile Views"
+  />
+</p>
 
  
 ⭐️ From [AlAmin](https://github.com/malamin59)  
