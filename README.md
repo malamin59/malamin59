@@ -128,6 +128,8 @@ I'm a passionate Full-Stack Developer from Bangladesh, building modern, scalable
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=malamin59&theme=blue-green)](https://git.io/streak-stats)
+
 ## 📊 GitHub Stats
 
 <p align="center">
