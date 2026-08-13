@@ -131,10 +131,7 @@ I'm a passionate Full-Stack Developer from Bangladesh, building modern, scalable
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=malamin59&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF8C00&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E" 
-    alt="GitHub Streak Stats"
-  />
+[![GitHub Streak](https://streak-stats.demolab.com?user=malamin59&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
