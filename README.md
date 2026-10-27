@@ -2,7 +2,7 @@
 **Frontend Developer** | **Junior Full-Stack Developer**
 
 
-<table>
+<table> 
   <tr>
     <td valign="middle">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=1E3A8A&center=false&vCenter=true&width=435&lines=Hi+there!+I'm+Md.+Al+Amin+👋;Full-Stack+Web+Developer;Lifelong+Learner+%26+Problem+Solver;Building+clean+%26+modern+UIs;Turning+ideas+into+reality+🚀" />
